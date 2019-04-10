@@ -2,3 +2,4 @@
 *data/*
 *.ipynb_*
 *.pth
+.vscode/settings.json
